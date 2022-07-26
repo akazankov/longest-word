@@ -1,10 +1,11 @@
 # game.py
 # pylint: disable=missing-docstring
-# pylint: disable=too-few-public-methods
+# pylint: disable=too-few-public-methodsre  
 
 # import pdb; pdb.set_trace()
 import random
 import string
+import requests
 
 class Game:
     def __init__(self):
