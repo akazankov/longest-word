@@ -5,6 +5,10 @@ name = "pypi"
 
 [packages]
 pylint = "*"
+requests = "*"
+nose = "*"
+flask = "*"
+gunicorn = "*"
 
 [dev-packages]
 nose = "*"
